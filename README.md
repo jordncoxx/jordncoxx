@@ -2,55 +2,88 @@
 
 # 🚀 Software Engineer • AI Systems • Fintech Infrastructure
 
-Hey, I’m Jordan. I build high-performance products end to end with a focus on clean UX, realtime systems, and secure financial architecture. I love working like a founder, moving fast, and turning complex ideas into polished, production-ready software.
+Hey, I’m Jordan. I build high-performance software products end to end, with a focus on AI systems, realtime infrastructure, financial architecture, and clean product design.
+
+I enjoy taking complex systems from idea to production: designing the architecture, building the backend, creating the interface, integrating infrastructure, and turning everything into a cohesive product people can actually use.
 
 ## **🔥 What I Build**
-- Realtime AI systems for voice, chat, and agent-style workflows  
-- Full-stack applications with Next.js, TypeScript, and modern UI systems  
-- Financial infrastructure including ACH transfers, wire transfers, international wire flows, ledgering systems, payment intents, and identity verification  
-- Scalable backend architecture with Postgres, serverless functions, and event-driven patterns  
-- Deployment pipelines with Docker, CI/CD, Cloudflare, AWS, and edge compute  
-- Clean interface design, component libraries, and intuitive product experiences  
+
+* Realtime AI systems for voice, chat, automation, and agent-driven workflows
+* Full-stack applications with Next.js, TypeScript, React, and modern UI systems
+* AI telephony systems with realtime speech processing, conversational reasoning, tool execution, scheduling, and automated follow-up
+* Financial infrastructure including ACH transfers, wire transfers, international payment flows, ledgering systems, payment intents, and identity verification
+* Scalable backend architecture using Postgres, event-driven systems, APIs, serverless infrastructure, and realtime data synchronization
+* Production deployment pipelines with Docker, CI/CD, AWS, Cloudflare, Vercel, and edge infrastructure
+* Clean product interfaces, component systems, and workflow-focused UX
 
 ## **🧠 Tech Stack**
-**Languages:** TypeScript, JavaScript, Python, SQL  
-**AI:** OpenAI, Gemini, embeddings, RAG workflows, vector DBs, audio streaming  
-**Frontend:** Next.js, React, Tailwind, shadcn  
-**Backend:** Node.js, Supabase, Postgres, Fastify, serverless APIs  
-**Fintech:** ACH processing, wire transfers, international wires, ledger design, payment intents, KYC and AML flows  
-**Cloud:** AWS, S3, CloudFront, Docker, Vercel, Cloudflare  
-**Tools:** Git, CI/CD, observability tools, testing workflows  
+
+**Languages:** TypeScript, JavaScript, Python, SQL
+**AI:** LLM orchestration, conversational AI, speech systems, embeddings, RAG, vector databases, tool calling, realtime audio streaming
+**Frontend:** Next.js, React, Tailwind, shadcn
+**Backend:** Node.js, Supabase, PostgreSQL, Fastify, serverless APIs, realtime systems
+**Fintech:** ACH processing, wire transfers, international payments, ledger architecture, payment intents, KYC and AML workflows
+**Cloud:** AWS, S3, CloudFront, Docker, Vercel, Cloudflare
+**Infrastructure:** Webhooks, queues, event-driven architecture, authentication, observability, CI/CD, testing, and production monitoring
 
 ## **⭐ Featured Work**
 
-### [Nbound](https://nbound.io) — AI-Powered Field Management for Home Service Businesses
-A unified platform that combines telephony, scheduling, team coordination, and real-time notifications into one operational system.
+### [Nbound](https://nbound.io/) — AI-Powered Operating System for Home Service Businesses
 
-AI Telephony & Lead Capture
-Automated inbound call handling with Retell AI, including lead qualification, appointment booking, and SMS follow-ups, enabling businesses to capture every customer interaction.
+Nbound is a full-stack business and field management platform designed to automate the operational lifecycle of home service companies.
 
-Real-Time Field Management
-Live dashboards for technicians, dispatchers, and office staff, with real-time updates on appointments, team availability, and customer communications.
+The system connects AI-powered customer communication, lead capture, scheduling, dispatch, field operations, CRM, invoicing, memberships, inventory, and team coordination into one unified platform.
 
-Team Collaboration & Notifications
-Robust system for adding team members, assigning tasks, and receiving instant alerts for new leads, messages, or operational changes.
+**Perseus AI Voice System**
+Built an intelligent inbound voice system capable of handling customer conversations in realtime, understanding intent, qualifying leads, answering business-specific questions, collecting customer information, booking appointments, triggering operational workflows, and coordinating automated follow-up.
 
-Full-Stack Platform
-Built with Next.js, Supabase, and PostgreSQL for fast, scalable data flows; polished React/Tailwind interfaces provide a clean, responsive experience for both managers and field staff.
+The system combines realtime speech processing, conversational reasoning, structured tool execution, business context, scheduling logic, customer records, and operational data to move a customer from initial phone call to booked job without requiring manual office intervention.
 
-### **[Aveler](https://flyaveler.com) — Private Aviation Marketplace / Operator OS and Bank-Level Fintech Layer**  
-A complete operating system for private aviation built end to end.  
-Includes traveler booking flows, operator dashboards, quoting engines, and a custom financial stack that supports ACH transfers, wire transfers, international wires, escrow logic, payment intents, audit-safe ledgers, and secure KYC for both travelers and operators.
+**Automated Scheduling & Dispatch**
+Designed scheduling and dispatch infrastructure that connects customer requests with technician availability, business hours, service requirements, appointment data, and field operations.
 
-### **AI Realtime Conversation Engine**  
-A low-latency system for interactive voice conversations powered by streaming STT, LLM reasoning, and fast TTS responses.
+**Client & Property Intelligence**
+Built a centralized CRM for customer history, properties, equipment, memberships, estimates, appointments, communications, and service activity, giving businesses a complete operational view of every customer relationship.
 
-### **Advanced Fintech Infrastructure**  
-Bank-adjacent systems including multi-step transaction flows, fraud-safe audit logging, compliance-aware identity pipelines, and reconciliation tooling.
+**Field Operations**
+Developed role-specific workflows for technicians, dispatchers, office staff, and administrators, including appointment management, work documentation, service completion, forms, images, equipment records, tasks, and realtime operational updates.
 
-### **Full-Stack Product Interfaces**  
-Polished UX paired with reliable backend logic for high-trust, high-performance applications.
+**Inventory & Multi-Location Operations**
+Built systems for managing warehouses, products, equipment, inventory quantities, technician assignments, suppliers, and multi-location organizations.
+
+**Payments, Invoicing & Memberships**
+Developed billing workflows spanning invoices, recurring memberships, subscription state synchronization, payment status, renewals, cancellations, and customer account management.
+
+**Realtime Platform Architecture**
+Engineered the platform using Next.js, TypeScript, PostgreSQL, Supabase, event-driven workflows, APIs, realtime data synchronization, background automation, and secure organization-scoped data access.
+
+Nbound was designed as a single operational layer where customer acquisition, AI automation, office operations, field crews, payments, and customer retention work as one connected system.
+
+### [Aveler](https://flyaveler.com/) — Private Aviation Marketplace / Operator OS and Fintech Infrastructure
+
+Built a complete operating system for private aviation spanning traveler booking, operator workflows, quoting, trip management, and financial infrastructure.
+
+Developed a custom financial architecture supporting ACH transfers, domestic and international wire flows, escrow logic, payment intents, audit-safe ledgering, reconciliation, transaction state management, and secure identity verification for travelers and operators.
+
+### **AI Realtime Conversation Engine**
+
+Built realtime conversational infrastructure combining streaming speech recognition, conversational reasoning, contextual state management, tool execution, and low-latency speech generation.
+
+Designed around natural interruption handling, persistent conversation context, structured actions, external system integration, and responsive voice interaction.
+
+### **Advanced Fintech Infrastructure**
+
+Designed bank-adjacent financial systems including multi-step transaction flows, ledger architecture, payment state machines, reconciliation tooling, audit logging, fraud controls, identity verification, and compliance-aware transaction workflows.
+
+### **Full-Stack Product Engineering**
+
+Build complete products across frontend, backend, infrastructure, data architecture, security, deployment, and UX.
+
+My focus is not just making individual features work — it is designing systems where every layer works together as one production-ready product.
 
 ## **🤝 Reach Out**
-I enjoy collaborating on AI, fintech, and ambitious engineering problems.  
-If you are building something challenging, I would love to help.
+
+I enjoy working on ambitious problems across AI, fintech, realtime systems, and full-stack product engineering.
+
+If you are building something difficult, I would love to help.
+

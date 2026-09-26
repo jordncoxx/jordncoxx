@@ -28,9 +28,9 @@ I enjoy taking complex systems from idea to production: designing the architectu
 
 ## **⭐ Featured Work**
 
-### [Nbound](https://nbound.io/) — AI-Powered Operating System for Home Service Businesses
+### [nbound](https://nbound.io/) — AI-Powered Operating System for Home Service Businesses
 
-Nbound is a full-stack business and field management platform designed to automate the operational lifecycle of home service companies.
+nbound is a full-stack business and field management platform designed to automate the operational lifecycle of home service companies.
 
 The system connects AI-powered customer communication, lead capture, scheduling, dispatch, field operations, CRM, invoicing, memberships, inventory, and team coordination into one unified platform.
 
@@ -57,7 +57,7 @@ Developed billing workflows spanning invoices, recurring memberships, subscripti
 **Realtime Platform Architecture**
 Engineered the platform using Next.js, TypeScript, PostgreSQL, Supabase, event-driven workflows, APIs, realtime data synchronization, background automation, and secure organization-scoped data access.
 
-Nbound was designed as a single operational layer where customer acquisition, AI automation, office operations, field crews, payments, and customer retention work as one connected system.
+nbound was designed as a single operational layer where customer acquisition, AI automation, office operations, field crews, payments, and customer retention work as one connected system.
 
 ### [Aveler](https://flyaveler.com/) — Private Aviation Marketplace / Operator OS and Fintech Infrastructure
 
